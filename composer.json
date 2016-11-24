@@ -1,0 +1,15 @@
+{
+    "name": "hasnhasan/po-translater",
+    "description": "Translate po files with Google Translate",
+    "type": "library",
+    "require": {
+        "stichoza/google-translate-php": "^3.2",
+        "sepia/po-parser": "^4.2"
+    },
+    "authors": [
+        {
+            "name": "Hasan",
+            "email": "hasan.ozsezgin@gmail.com"
+        }
+    ]
+}

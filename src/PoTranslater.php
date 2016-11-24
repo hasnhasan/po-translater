@@ -1,7 +1,7 @@
 <?php
 
 
-namespace hasnhasan\PoTranslater;
+namespace PoTranslater;
 use Sepia\FileHandler;
 use Sepia\PoParser;
 use Stichoza\GoogleTranslate\TranslateClient;

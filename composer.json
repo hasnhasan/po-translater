@@ -11,5 +11,6 @@
             "name": "Hasan",
             "email": "hasan.ozsezgin@gmail.com"
         }
-    ]
+    ],
+    "minimum-stability": "stable"
 }

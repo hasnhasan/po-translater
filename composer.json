@@ -12,9 +12,9 @@
             "email": "hasan.ozsezgin@gmail.com"
         }
     ],
-    "autoload" : {
-        "psr-0" : {
-            "hasnhasan": "src/"
+    "autoload": {
+        "psr-4": {
+            "hasnhasan\\PoTranslater\\": "src"
         }
     },
     "minimum-stability": "dev"

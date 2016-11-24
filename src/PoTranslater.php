@@ -1,11 +1,12 @@
 <?php
 
-namespace PoTranslater;
+
+namespace hasnhasan\PoTranslater;
 use Sepia\FileHandler;
 use Sepia\PoParser;
 use Stichoza\GoogleTranslate\TranslateClient;
 
-class PoTranslate {
+class PoTranslater {
     public $source;
     public $target;
     public $poFile;

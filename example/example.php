@@ -1,9 +1,9 @@
 <?php
 include 'vendor/autoload.php';
 
-use PoTranslater\PoTranslate;
+use hasnhasan\PoTranslater;
 
-$pt = new PoTranslate();
+$pt = new PoTranslater();
 $pt->setPoFile('en_US.po')
     ->setSource('en')
     ->setTarget('tr')

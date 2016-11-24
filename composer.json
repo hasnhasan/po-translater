@@ -12,5 +12,10 @@
             "email": "hasan.ozsezgin@gmail.com"
         }
     ],
-    "minimum-stability": "stable"
+    "autoload" : {
+        "psr-0" : {
+            "hasnhasan": "src/"
+        }
+    },
+    "minimum-stability": "dev"
 }
